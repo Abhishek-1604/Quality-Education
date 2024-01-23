@@ -1,0 +1,14 @@
+[
+    {
+        "name":"Alexa",
+        "age":21,
+        "place":"Fullstack Development",
+        "image":"https://th.bing.com/th/id/R.8565cd7c0478b4aab8f6c6707bbb30d1?rik=YQlTyxGsjxedvA&riu=http%3a%2f%2finternationalhigherschoolofmedicine.com%2fwp-content%2fuploads%2f2021%2f11%2fwhy-choose-side-img.png&ehk=oryADmXuh6yQJj%2fjS8Gvv3wEROO1HLNE3nCM%2f1AhLYs%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name":"Jenny",
+        "age":21,
+        "place":"Fullstack Development",
+        "image":"https://th.bing.com/th/id/R.8565cd7c0478b4aab8f6c6707bbb30d1?rik=YQlTyxGsjxedvA&riu=http%3a%2f%2finternationalhigherschoolofmedicine.com%2fwp-content%2fuploads%2f2021%2f11%2fwhy-choose-side-img.png&ehk=oryADmXuh6yQJj%2fjS8Gvv3wEROO1HLNE3nCM%2f1AhLYs%3d&risl=&pid=ImgRaw&r=0"
+    }
+]
